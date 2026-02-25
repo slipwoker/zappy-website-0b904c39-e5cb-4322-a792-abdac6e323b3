@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Discover unlimited live tv streaming services and on-demand video content. Watch your favorite shows like Parks and Rec streaming instantly. Start exploring now!
+
+### Watch
+https://example.com/watch
+Dive into endless entertainment with parks and rec streaming and thousands more shows. High-quality video streaming at your fingertips. Click play today!
+
+### Creators
+https://example.com/creators
+Join StreamHive&#39;s creator community and broadcast to millions. Upload videos, go live, and monetize your passion with our powerful streaming platform today.
+
+### Contact
+https://example.com/contact
+Need help with live tv streaming services or have questions? Our dedicated team is ready to assist you. Reach out now and get answers within 24 hours!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
